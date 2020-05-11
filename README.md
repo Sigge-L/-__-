@@ -1,2 +1,1 @@
-# -__-
-Circle Center Calculator
+# Circle Center Calculator
